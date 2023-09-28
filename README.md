@@ -1,4 +1,4 @@
-# foodstyles - solomon exam
+ Expo React-native with GraphQL endpoint using Redux
 
 Techstack:
 
